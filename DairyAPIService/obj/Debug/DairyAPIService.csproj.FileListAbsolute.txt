@@ -110,7 +110,6 @@ C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\bin\System.Web.Http
 C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\obj\Debug\DairyAPIService.csprojAssemblyReference.cache
 C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\obj\Debug\DairyAPIService.csproj.CoreCompileInputs.cache
 C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\obj\Debug\DairyAPIService.csproj.CopyComplete
 C:\Users\sujith\source\repos\DairyAPIService\DairyAPIService\obj\Debug\DairyAPIService.dll

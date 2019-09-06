@@ -59,11 +59,11 @@ namespace DairyAPIService
             //    appId: "",
             //    appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "127129654889-h2up5h766nrmma5v8abrfkhu2m88btvc.apps.googleusercontent.com",
+                ClientSecret = "M4SJLDHRHek3PIefEM6Bnc1s"
+            });
         }
     }
 }

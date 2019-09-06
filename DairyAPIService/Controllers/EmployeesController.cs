@@ -15,7 +15,7 @@ namespace DairyAPIService.Controllers
     public class EmployeesController : ApiController
     {
         private SwarnaContext db = new SwarnaContext();
-
+        [Authorize]
         // GET: api/Employees
         public IQueryable<Employee> GetEmployees()
         {
